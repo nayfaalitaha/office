@@ -1,0 +1,225 @@
+ 
+@font-face {
+    font-family:KumbhSans-Bold ;
+    src: url(../font/KumbhSans-Bold.ttf);
+}
+@font-face{
+    font-family:  KumbhSans-Regular;
+    src: url(../font/KumbhSans-Regular.ttf);
+}
+.logo{
+    background-color:white;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    padding: 30px;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.header{
+    font-family: KumbhSans-Bold;
+    color: #000;
+    font-size: 56px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.header-text{
+    font-family: KumbhSans-Regular;
+    font-size: 14px;
+    color: #6c7183;
+}
+
+
+.start-but{
+    background: #5175FF;
+    color: #fff;
+    text-transform: capitalize;
+    font-family: KumbhSans-Bold;
+    border: none;
+    width: 200px;
+    border-radius: 20px;
+    font-size: 30px;
+    height: 55px;
+}
+.text{
+    font-family: KumbhSans-Bold;
+    font-size: 20px;
+    margin: 40px;
+    line-height: 1;
+}
+.border{
+    font-family: KumbhSans-Bold;
+    font-size: 60px;
+    margin: 40px;
+}
+.price{
+    font-family:  KumbhSans-Bold;
+    font-size:20px;
+    margin:40px;
+    line-height:0;
+}.total{
+    font-family:  KumbhSans-Bold;
+    font-size:20px;
+    margin:40px;  
+    line-height:1;
+}
+.bacsic{
+    font-family:  KumbhSans-Bold;
+    font-size:20px;
+    margin:40px;
+    line-height:1;
+}
+.free{
+   font-family:KumbhSans-Bold;
+    font-size:20px;
+    margin:40px;
+    line-height:0;
+}
+.margin{
+    background: #5175FF;
+    color: #fff;
+    text-transform: capitalize;
+    font-family: KumbhSans-Bold;
+    border: none;
+    border-radius: 28px;
+    font-size: 30px;
+    margin: 18px;
+    padding: 18px;
+}
+.marking{
+    border: 60px;
+    width: 400px;
+    border: #FFFFFF;
+    text-align: center;
+    margin-bottom: 300px;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+.marking:hover{
+    background-color:#6b83e0;
+}
+.desing{
+    font-family:KumbhSans-Bold;
+    font-size:20px;
+    margin:40px;
+    line-height:1;
+}
+.typing{
+    font-family: KumbhSans-Bold;
+    font-size: 60px;
+    margin: 40px;
+}
+.acount{
+    font-family:KumbhSans-Bold;
+    font-size:20px;
+    margin:40px;  
+    line-height:1;
+}
+.adyo{
+    font-family:KumbhSans-Bold;
+    font-size:20px;
+    margin:40px;  
+    line-height:1;
+}
+.english{
+    font-family:KumbhSans-Bold;
+    font-size:20px;
+    margin:40px;
+    line-height:1;
+}
+.arab{
+    font-family:KumbhSans-Bold;
+    font-size:20px;
+    margin:40px;
+    line-height:3;
+}
+.sport{
+    background: #5175FF;
+    color: #fff;
+    text-transform: capitalize;
+    font-family: KumbhSans-Bold;
+    border: none;
+    border-radius: 28px;
+    font-size: 30px;
+    margin:18px;
+    padding:18px;
+}
+
+.font{
+    font-family: KumbhSans-Bold;
+    font-size:20px;
+    margin:40px;
+
+}
+.size{
+    font-family: KumbhSans-Bold;
+    font-size: 60px;
+    margin: 40px;
+}
+.border{
+    font-family:KumbhSans-Bold;
+    font-size:20px;
+    margin:40px;  
+    line-height:1;
+}
+.marghin{
+    font-family:  KumbhSans-Bold;
+    font-size:20px;
+    margin:40px;
+}
+.batting{
+    font-family:KumbhSans-Bold;
+    font-size:20px;
+    margin:40px;
+}
+.left{
+    font-family:KumbhSans-Bold;
+    font-size:20px;
+}
+.sport{
+    background: #5175FF;
+    color: #fff;
+    text-transform: capitalize;
+    font-family: KumbhSans-Bold;
+    border: none;
+    border-radius: 28px;
+    font-size: 30px;
+    margin: 18px;
+    padding: 18px;
+}
+.plan{
+    display:flex;
+  margin-bottom:30px;
+  justify-content: center;
+}
+.all{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 15px;
+}
+.boxes{
+    display: flex;
+}
+.day{
+    font-family: KumbhSans-Bold;
+    background-color: #c4a6a6;
+    text-align: center;
+    margin:18px;
+    padding:18px;
+    border-radius: 9px;
+}
+.button{
+    background:#5175FF;
+    color: #fff;
+    text-transform: capitalize;
+    font-family: KumbhSans-Bold;
+    border: none;
+    border-radius: 28px;
+    font-size: 30px;
+    margin:18px;
+    padding:18px;
+}
